@@ -37,7 +37,7 @@ Implementing the search query in SCOPUS and Web of Science requires adding an AP
 
 Elsevier-SCOPUS
 •	URL: https://api.elsevier.com/content/search/scopus
-•	API Key: 2cd48ad4c32d99e6c9fbfd57251b8a96  obtain your own API key:
+•	Obtain your own API key by following the steps below:
 o	You must have an Elsevier account. Register here for a free account.
 o	You must use your student email address
 o	You may already have an account if you have registered with Scopus/ScienceDirect 
@@ -47,7 +47,7 @@ o	Add the API Key in “2025_10_26_Part1_SCOPUS_add_key.R”: api_key <- "[add k
 
 Web of Science
 •	URL: https://api.clarivate.com/apis/wos-starter/v1/documents (https://api.clarivate.com/apis/wos-starter/v1) 
-•	API Key: 16daa61b0265c766e450e77106393b3584be32d9  obtain your own API key:
+•	Obtain your own API key by following the steps below:
 o	You must have a Clarivate account. Register here for a free account.
 o	You must use your student email address
 o	Access the Clarivate Developer Portal. Click on “Applications” in the header menu and select “Register new application”
@@ -62,10 +62,15 @@ Use at your own risk. Citation when using/adapting the code for your own purpose
 References
 
 Meng, Jiayin, Zhen Ye and Ying Wang, 2024, “Financing and Investing in Sustainable Infrastructure: A Review and Research Agenda,” Sustainable Futures, Vol. 8, 100312, available at https://doi.org/10.1016/j.sftr.2024.100312
-Moher, David, Alessandro Liberati, Jennifer Tetzlaff, and Douglas G. Altman, 2009, “Preferred Reporting Items for Systematic Reviews and Meta-Analyses: The PRISMA Statement,” Annals of Internal Medicine, Vol. 151, No. 4, pp. 264-69, available at https://www.bmj.com/content/bmj/339/bmj.b2535.full.pdf.
-Page, Matthew J., Joanne E. McKenzie, Patrick M. Bossuyt, Isabelle Boutron, Tammy C. Hoffmann, Cynthia D. Mulrow, Larissa Shamseer, Jennifer M. Tetzlaff, Elie A. Akl, Sue E. Brennan, Roger Chou, Julie Glanville, Jeremy M. Grimshaw, Asbjørn Hróbjartsson, Manoj M. Lalu, Tianjing Li, Elizabeth W. Loder, Evan Mayo-Wilson, Steve McDonald, Luke A. McGuinness, Lesley A. Stewart, James Thomas, Andrea C. Tricco, Vivian A. Welch, Penny Whiting, David Moher, 2021, “The PRISMA 2020 Statement: An Updated Guideline for Reporting Systematic Reviews,” International Journal of Surgery, Vol. 88, 105906, available at https://doi.org/10.1016/j.ijsu.2021.105906.
+
+Moher, David, Alessandro Liberati, Jennifer Tetzlaff, and Douglas G. Altman, 2009, “Preferred Reporting Items for Systematic Reviews and Meta-Analyses: The PRISMA Statement,” Annals of Internal Medicine, Vol. 151, No. 4, pp. 264-69, available at https://www.bmj.com/content/bmj/339/bmj.b2535.full.pdf
+
+Page, Matthew J., Joanne E. McKenzie, Patrick M. Bossuyt, Isabelle Boutron, Tammy C. Hoffmann, Cynthia D. Mulrow, Larissa Shamseer, Jennifer M. Tetzlaff, Elie A. Akl, Sue E. Brennan, Roger Chou, Julie Glanville, Jeremy M. Grimshaw, Asbjørn Hróbjartsson, Manoj M. Lalu, Tianjing Li, Elizabeth W. Loder, Evan Mayo-Wilson, Steve McDonald, Luke A. McGuinness, Lesley A. Stewart, James Thomas, Andrea C. Tricco, Vivian A. Welch, Penny Whiting, David Moher, 2021, “The PRISMA 2020 Statement: An Updated Guideline for Reporting Systematic Reviews,” International Journal of Surgery, Vol. 88, 105906, available at https://doi.org/10.1016/j.ijsu.2021.105906
+
 Petticrew, Mark and Helen Roberts, 2006. Systematic Reviews in the Social Sciences: A Practical Guide (Oxford: Blackwell Publishing)
-Pickering, Catherine and Jason Byrne, 2013, “The benefits of publishing systematic quantitative literature reviews for PhD candidates and other early-career researchers, Higher Education Research and Development, Vol. 33, No. 3, pp. 534-48, available at https://www.tandfonline.com/doi/abs/10.1080/07294360.2013.841651.
+
+Pickering, Catherine and Jason Byrne, 2013, “The benefits of publishing systematic quantitative literature reviews for PhD candidates and other early-career researchers, Higher Education Research and Development, Vol. 33, No. 3, pp. 534-48, available at https://www.tandfonline.com/doi/abs/10.1080/07294360.2013.841651
+
 Tranfield, David, David Denyer and Palminder Smart, 2003, “Towards a Methodology for Developing Evidence-Informed Management Knowledge by Means of Systematic Review,” British Journal of Management, Vol. 14, No. 3, pp. 207-22, https://onlinelibrary.wiley.com/doi/10.1111/1467-8551.00375. 
 
 
